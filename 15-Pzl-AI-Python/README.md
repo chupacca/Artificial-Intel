@@ -1,4 +1,4 @@
-Student: Peter Chu
+
 
 Index: 
 	-> (DEPTH, NUMBER CREATED, EXPANISON NUMBER, FRINGE)
